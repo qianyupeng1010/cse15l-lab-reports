@@ -11,14 +11,17 @@ Then the command line is asking your password. Type your CSE15L password you res
 After you typed in the correct password, you will see something like this <img width="509" alt="截屏2023-04-06 下午3 48 08" src="https://user-images.githubusercontent.com/130001791/230507637-4b994777-6eed-455b-86b9-ea34e64079c0.png"><br>
 Cheers, you have remotely connected to a comuputer in CSE basement! Now any command you run will also run on that computer.
 ## Try Some Commands
-Now you can try the commands we learnt in lecture2 on your computer!<br><br>
+If you see something like this,<br>
+<img width="344" alt="截屏2023-04-06 下午4 45 50" src="https://user-images.githubusercontent.com/130001791/230513313-05350816-3331-4cde-9447-05fa0917d5bf.png"><br>
+you can try the commands we learnt in lecture2 on your computer!<br><br>
 You may try<br>
 > cd~<br>
-> ls<br>
+> ls -lat<br>
 > cd<br>
 > pwd<br>
 > ls <directory>, where <directory> is "/home/linux/ieng6/cs15lsp23/cs15lsp23abc", where the "abc" is one of the other group members’ username
 <br><br>
-<br><br>
 
-# Congratulations! You Finished This Tutorial!
+*I wish I could bring you a screenshot of interesting commands I have tried, but I did not know why the CSE basement does not allow me to log in again with the same password and account name I used in lab time. I'm trying to figure it out! Fingers crossed.*
+
+# Congratulations! You Finished This Tutorial! Wish You Have a Wonderful Journey in CSE15L
