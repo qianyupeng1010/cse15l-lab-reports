@@ -22,6 +22,6 @@ You may try<br>
 > ls <directory>, where <directory> is "/home/linux/ieng6/cs15lsp23/cs15lsp23abc", where the "abc" is one of the other group members’ username
 <br><br>
 
-*I wish I could bring you a screenshot of interesting commands I have tried, but I did not know why the CSE basement does not allow me to log in again with the same password and account name I used in lab time. I'm trying to figure it out! I copyed and pasted what I tried in lab to our group document, but it is not a screenshot.  *
+**I wish I could bring you a screenshot of interesting commands I have tried, but I did not know why the CSE basement does not allow me to log in again with the same password and account name I used in lab time. I'm trying to figure it out! I copyed and pasted what I tried in lab to our group document, but it is not a screenshot:( .**
 
 # Congratulations! You Finished This Tutorial! Wish You Have a Wonderful Journey in CSE15L
