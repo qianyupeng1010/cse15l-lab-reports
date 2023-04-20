@@ -29,9 +29,10 @@ in which ```cd``` allows you to move between directories.```ls -lat``` show the 
 As an example, here are some commands I tried on my computer:I typed ```ls -lat``` into command, it gives me the list of my directory![145391680830370_ pic](https://user-images.githubusercontent.com/130001791/230543260-fd86a8d6-eec4-4b5d-82ee-8feeaf7fee55.jpg)<br>
  In the following screenshot, I typed ```pwd``` into command, and it gives me the full path name of my current directory.<br>
   ![145401680830427_ pic](https://user-images.githubusercontent.com/130001791/230543289-cbd4e07a-b51a-4729-89c6-b86c6c6aa5d8.jpg)<br>
-  In the following screenshot, I typed ```ls``` into command to display files I have, which returned me ```perl5```. Then I want to get into ```perl5``` and see what is inside, so I typed ```cd perl5```. It does not return me anything because there is literally nothing in ```perl5```. <img width="321" alt="截屏2023-04-19 下午8 29 27" src="https://user-images.githubusercontent.com/130001791/233252186-0856c656-5bac-4ad1-94c1-0637b4c52301.png"> <br>
-However, we can check if we are in ```perl5``` using ```pwd``` which gives me the full path name.
-<img width="343" alt="截屏2023-04-19 下午8 39 15" src="https://user-images.githubusercontent.com/130001791/233252219-18564961-bbaf-4d9d-87bd-352b58e6c0d3.png">
-
+  In the following screenshot, I typed ```ls``` into command to display files I have, which returned me ```perl5```. Then I want to get into ```perl5``` and see what is inside, so I typed ```cd perl5```. It does not return me anything because there is literally nothing in ```perl5```. <img width="311" alt="截屏2023-04-19 下午8 43 07" src="https://user-images.githubusercontent.com/130001791/233252805-92fc891e-fea5-4616-b874-9e0eb174e344.png">
+ <br>
+However, we can check if we are in ```perl5``` using ```pwd``` which gives me the full path name.<br>
+<img width="343" alt="截屏2023-04-19 下午8 39 15" src="https://user-images.githubusercontent.com/130001791/233252219-18564961-bbaf-4d9d-87bd-352b58e6c0d3.png"><br>
+In the end of the path, we can see we are in ```perl5```, so we are done.
 
 # Congratulations! You Finished This Tutorial! Wish You Have a Wonderful Journey in CSE15L
