@@ -5,17 +5,12 @@ Once you see your screen appeared something liket this, you have successfully in
 ## Remotely Connected
   First, reset your CSE15L password. Our course CSE15L have course-specific account. Go to [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php) to look up your account and reset password(we are resetting CSE15L course password, DO NOT reset your AD passord! You can go to [CSE15l account](https://sdacs.ucsd.edu/cgi-bin/alloc-query) to reset your course specific account. <br><br>
   Second, remotely Connected. In order to work on a remote computer over the Internet, you will have to use VScode/terminal to establish a connection.
-Next, launch a terminal within VScode by selecting Terminal → New Terminal from the menu. Your command will resemble the following:
-```
-ssh cs15lsp23zz@ieng6.ucsd.edu
-``` 
-but with the zz substituted with the letters specific to your course account.<br><br>
+Next, launch a terminal within VScode by selecting Terminal → New Terminal from the menu. Your command will resemble the following:`ssh cs15lsp23zz@ieng6.ucsd.edu`but with the zz substituted with the letters specific to your course account.<br><br>
 Then you will get message 
 ```
 are you sure you want to continue connecting (yes/no/[fingerprint])? 
 ```
 Just type "Yes".<br><br>
-
 
 Then the command line is asking for your password. Type your CSE15L password you resetted previously. The password will be hiden on your screen, don't worry, you are typing in!<br><br>
 After you typed in the correct password, you will see something like this![145411680830562_ pic](https://user-images.githubusercontent.com/130001791/230543084-fe7dd9ef-b05d-4bc5-9269-c2dc34b881d4.jpg)
